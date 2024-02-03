@@ -1,6 +1,5 @@
 # 102116124_Topsis_Text-Conversational
 
-# Topsis to find best pretrained model for TEXT GENERATION
 This code compares the performance of various pretrained text generation models. It evaluates each model by generating responses to specific prompts and measuring metrics like BLEU and ROUGE. The code then employs TOPSIS analysis to determine the overall best model, considering multiple metrics. 
 
 # Project Structure
