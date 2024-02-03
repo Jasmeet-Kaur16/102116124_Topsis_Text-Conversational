@@ -50,10 +50,10 @@ A horizontal bar graph visualizes TOPSIS scores and rankings of different models
 ## TOPSIS SCORE
 <img src="topsis_BarGraph.png" alt="Response Length Comparison">
 - ROUGE-1_comparison, ROUGE-2_comparison, ROUGE-L_comparison, Response Length_comparison, Response Length:Bar graphs comparing individual metrics.
-<img src="ROUGE-1_comparision.png" alt="Response Length Comparison">
-<img src="ROUGE-2_comparision.png" alt="Response Length Comparison">
-<img src="ROUGE-L_comparision.png" alt="Response Length Comparison">
-<img src="response_length_comparision.png" alt="Response Length Comparison">
+<img src="ROUGE-1_comparison.png" alt="Response Length Comparison">
+<img src="ROUGE-2_comparison.png" alt="Response Length Comparison">
+<img src="ROUGE-L_comparison.png" alt="Response Length Comparison">
+<img src="response_length_comparison.png" alt="Response Length Comparison">
 
 ## Dependencies
 - torch: PyTorch library for deep learning.
