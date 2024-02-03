@@ -1,6 +1,6 @@
 # 102116124_Topsis_Text-Conversational
 
-This code compares the performance of various pretrained text generation models. It evaluates each model by generating responses to specific prompts and measuring metrics like BLEU and ROUGE. The code then employs TOPSIS analysis to determine the overall best model, considering multiple metrics. 
+This code compares the performance of various pretrained text conversational models. It evaluates each model by generating responses to specific prompts and measuring metrics like BLEU and ROUGE. The code then employs TOPSIS analysis to determine the overall best model, considering multiple metrics. 
 
 # Project Structure
 
